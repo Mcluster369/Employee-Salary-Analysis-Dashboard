@@ -1,0 +1,16 @@
+employee_id,department,job_title,experience_level,location,education_level,salary
+1,Engineering,Software Engineer,Entry,Remote,Bachelor,72000
+2,Engineering,Data Engineer,Mid,Onsite,Bachelor,92000
+3,Engineering,Senior Software Engineer,Senior,Hybrid,Master,125000
+4,Data,Data Analyst,Entry,Remote,Bachelor,68000
+5,Data,Data Scientist,Mid,Hybrid,Master,105000
+6,Data,Senior Data Scientist,Senior,Remote,PhD,138000
+7,Marketing,Marketing Specialist,Entry,Onsite,Bachelor,54000
+8,Marketing,Marketing Manager,Mid,Hybrid,Bachelor,78000
+9,Marketing,Director of Marketing,Senior,Onsite,Master,118000
+10,Sales,Sales Representative,Entry,Remote,Associate,50000
+11,Sales,Account Executive,Mid,Hybrid,Bachelor,74000
+12,Sales,Sales Manager,Senior,Onsite,Bachelor,99000
+13,Finance,Financial Analyst,Entry,Hybrid,Bachelor,65000
+14,Finance,Finance Manager,Mid,Onsite,Master,97000
+15,Finance,Senior Finance Manager,Senior,Hybrid,Master,122000
